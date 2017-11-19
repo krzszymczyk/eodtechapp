@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eodtechwebapp", "eodtechwebapp\eodtechwebapp.csproj", "{C86379D2-5E0C-453F-8CC0-FA99E01F68DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eodtechwebappcore", "eodtechwebappcore\eodtechwebappcore.csproj", "{50F6B285-11D4-4F85-B2BC-1892BB3F7465}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C86379D2-5E0C-453F-8CC0-FA99E01F68DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C86379D2-5E0C-453F-8CC0-FA99E01F68DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C86379D2-5E0C-453F-8CC0-FA99E01F68DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F6B285-11D4-4F85-B2BC-1892BB3F7465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F6B285-11D4-4F85-B2BC-1892BB3F7465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F6B285-11D4-4F85-B2BC-1892BB3F7465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F6B285-11D4-4F85-B2BC-1892BB3F7465}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

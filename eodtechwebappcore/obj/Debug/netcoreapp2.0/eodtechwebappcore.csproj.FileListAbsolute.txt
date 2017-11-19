@@ -1,0 +1,12 @@
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\bin\Debug\netcoreapp2.0\eodtechwebappcore.deps.json
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\bin\Debug\netcoreapp2.0\eodtechwebappcore.runtimeconfig.json
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\bin\Debug\netcoreapp2.0\eodtechwebappcore.runtimeconfig.dev.json
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\bin\Debug\netcoreapp2.0\eodtechwebappcore.dll
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\bin\Debug\netcoreapp2.0\eodtechwebappcore.pdb
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\obj\Debug\netcoreapp2.0\eodtechwebappcore.csprojResolveAssemblyReference.cache
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\obj\Debug\netcoreapp2.0\eodtechwebappcore.csproj.CoreCompileInputs.cache
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\obj\Debug\netcoreapp2.0\eodtechwebappcore.AssemblyInfoInputs.cache
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\obj\Debug\netcoreapp2.0\eodtechwebappcore.AssemblyInfo.cs
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\obj\Debug\netcoreapp2.0\eodtechwebappcore.dll
+C:\Folder osobisty\eodtechapp\eodtechapp\eodtechwebappcore\obj\Debug\netcoreapp2.0\eodtechwebappcore.pdb
